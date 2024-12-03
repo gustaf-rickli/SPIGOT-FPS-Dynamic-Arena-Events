@@ -1,0 +1,16 @@
+name: FPS_Arena
+version: '1.0-SNAPSHOT'
+main: com.gustavorickli.fps_arena.FPSArena
+commands:
+  shop:
+    description: Mostra todos os items para comprar no Shop
+    usage: /<command>
+  rod:
+    description: Comprar uma Fishing Rod
+    usage: /<command>
+  sharp1:
+    description: Comprar uma espada encantada com Sharpness 1
+    usage: /<command>
+  demoman:
+    description: Comprar uma espada encantada com Sharpness 1
+    usage: /<command>

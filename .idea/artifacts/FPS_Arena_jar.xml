@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FPS_Arena:jar">
+    <output-path>$PROJECT_DIR$/../../servers/test-1.12/plugins</output-path>
+    <root id="archive" name="FPS_Arena.jar">
+      <element id="module-output" name="FPS_Arena" />
+    </root>
+  </artifact>
+</component>
